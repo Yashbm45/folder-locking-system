@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JMF2.1.1e/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DMG INSTITUTE/Documents/Folder_Loading_SQL_GUI/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DMG INSTITUTE/Documents/Folder_Loading_SQL_GUI/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Folder_Loading_SQL_GUI/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/Folder_Loading_SQL_GUI/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
